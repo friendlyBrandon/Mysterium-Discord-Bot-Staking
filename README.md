@@ -1,3 +1,5 @@
+⚠️ Mysterium staking has been discontinued so this repository will be useless now.
+
 Create your own bot on Discord, add it to your own server and give it admin permission.
 Get the token to put on line 12 inbetween the ''.
 Also change the CHANNEL_ID to your own channel its ID.
